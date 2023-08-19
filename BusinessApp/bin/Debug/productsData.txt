@@ -1,0 +1,7 @@
+fruit,kutta,12,12,4
+fruit,banana,12,140,1
+vegetable,sabzi,122,124,5
+vegetable,aloo,120,24,6
+dairy,milk,20,234,7
+meat,billi,1200,12,2
+fruit,peach,30,20,9

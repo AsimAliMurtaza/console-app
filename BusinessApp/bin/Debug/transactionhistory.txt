@@ -1,0 +1,9 @@
+ali,14112.6,kutta;1200;12;canned!
+mulla,118.2,kutta;10;100;canned!
+mulla,199694.7,woof;20;150;canned!apple;1003;200;fruit!kutta;12;12;fruit!
+mulla,3240,woof;20;150;canned!
+ali,50904,chocolate;40;1212;dairy!
+ali,19640,apple;100;200;fruit!
+ali,19785.92,apple;100;200;fruit!kutta;12;12;fruit!
+ali,14118,billi;12;1200;meat!
+ali,400,peach;20;20;fruit!

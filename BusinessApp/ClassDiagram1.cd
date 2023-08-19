@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessApp.BL.AdminBL">
+    <Position X="14" Y="12.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>BL\AdminBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.CustomerBL">
+    <Position X="20.25" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACISAAAAoAAAQAAgEAAAQQAAAwAAABAQAABA=</HashCode>
+      <FileName>BL\CustomerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ProductBL">
+    <Position X="8.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QIAQADgAAAAgAACAEAAABAABAAAACIAAAAgAAEAAAAE=</HashCode>
+      <FileName>BL\ProductBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UserBL">
+    <Position X="16.75" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAEACISAAAgAABAAABEEAAAQQAAAwAAAhgQAAAA=</HashCode>
+      <FileName>BL\UserBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.CustomerDL">
+    <Position X="26" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAABAAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ProductDL">
+    <Position X="26" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBQACAAAAAIAAgIQAEAAAAACgAAQAAABAAAAAA=</HashCode>
+      <FileName>DL\ProductDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.DL.UserDL">
+    <Position X="26" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAgIAAAAQAQAAAAAAAACBAAAAAACAAAEQAAAAgAAAAA=</HashCode>
+      <FileName>DL\UserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.AdminUI">
+    <Position X="0.5" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAEACAAAAAA=</HashCode>
+      <FileName>UI\AdminUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.CustomerUI">
+    <Position X="0.5" Y="5.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACABAAAHAAAAAAEBAABAAAAQAAAACE=</HashCode>
+      <FileName>UI\CustomerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.DriverUI">
+    <Position X="0.5" Y="11.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BgAwAAAAAAAAAAAAIIAAAAAAEBAIAYAAAgEIAAACAAA=</HashCode>
+      <FileName>UI\DriverUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.ProductUI" Collapsed="true">
+    <Position X="0.5" Y="15.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\ProductUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.UserUI">
+    <Position X="0.5" Y="9.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\UserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.UI.ValidationsUI">
+    <Position X="0.5" Y="3" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAAgAAAAAAAAgAAAAAIAQAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>UI\ValidationsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessApp.BL.ValidationsDL">
+    <Position X="26" Y="13.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAEAAAAAAAAIgAAAABQAAAAAAAAA=</HashCode>
+      <FileName>DL\ValidationsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

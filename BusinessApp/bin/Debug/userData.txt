@@ -1,0 +1,3 @@
+asim,123,admin
+ali,1234,customer,03211234566,@.com
+akram,123,customer,03213234534,akram@gmail.com
